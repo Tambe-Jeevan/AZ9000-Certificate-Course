@@ -1,1 +1,1 @@
-# AZ9000-Cirtificate
+# AZ9000-Certificate
