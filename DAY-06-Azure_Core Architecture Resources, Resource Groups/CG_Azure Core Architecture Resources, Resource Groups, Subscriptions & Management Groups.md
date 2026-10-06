@@ -1406,3 +1406,5 @@ Put them together:
 **This is the foundation.** From here, we can start building actual Azure services instead of just learning isolated definitions.
 
 And remember our rule for this journey: **we are not racing to finish 60 days.** If a topic needs more practical work, we'll spend more time on it.
+
+/
